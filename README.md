@@ -1,6 +1,6 @@
 # diceee
 
-A new Flutter project.
+Dicee is a Flutter app more over a simple game in which when the user click the roll button it roles the dice
 
 ## Getting Started
 
