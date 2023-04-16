@@ -2,6 +2,14 @@
 
 Dicee is a Flutter app more over a simple game in which when the user click the roll button it roles the dice
 
+# Preview
+
+
+https://user-images.githubusercontent.com/113350510/232319740-8636b33e-c130-4a81-922f-e53b01c493e9.mov
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
